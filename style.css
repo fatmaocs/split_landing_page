@@ -79,7 +79,7 @@ body
 
 }
 
- .container .split button
+  button
 {
     padding: 20px 60px;
     border: 3px solid white;
@@ -104,7 +104,7 @@ body
    background-color: var(--right-btn-hover-color);
 }
 
-.container .split h1
+ h1
 {
     color: white;
     font-size: 4rem;
@@ -155,7 +155,7 @@ body
     top: 30%;
   }
 
-  .button {
+  button {
     padding: 1.2rem;
     width: 12rem;
   }
